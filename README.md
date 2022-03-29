@@ -18,6 +18,6 @@ Circle CI as orquestrator
 - The app is build using CircleCI pipeline and the image is stored in ECR repository
 
 - The insfrastructure is deployed using terraform and CircleCI
-Repository:
+Repository: https://github.com/f-andres/Infra_timeoff
 
-
+![image](https://user-images.githubusercontent.com/69277093/160628559-5d1856cc-25f8-4b73-abdd-960d7bfc260c.png)
