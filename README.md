@@ -7,7 +7,7 @@ Description:
 AWS resources:
 
 - IAM roles
-- Secirity Groups
+- Security Groups
 - VPC and Subnets
 - Load balancing and target groups
 - ECS cluster
@@ -16,6 +16,7 @@ Pipelines
 Circle CI as orquestrator
 
 - The app is build using CircleCI pipeline and the image is stored in ECR repository
+repository: https://github.com/f-andres/timeoff-management-application
 
 - The insfrastructure is deployed using terraform and CircleCI
 Repository: https://github.com/f-andres/Infra_timeoff
